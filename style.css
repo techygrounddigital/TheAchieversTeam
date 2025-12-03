@@ -110,4 +110,7 @@ input[type="file"] {
     h1{
         font-size: 20px;
     }
+    .logo{
+        width: 300px;
+    }
 }
